@@ -1,0 +1,12 @@
+name: Drupal 8 Bootstrap Subtheme
+type: theme
+description: ' Drupal theme based on Bootstrap'
+package: 'Custom'
+version: 1.0
+libraries:
+  - theme_name/global-styling
+  - theme_name/bootstrap-scripts
+core: 8.x
+php: 7.0
+base theme: bootstrap
+screenshot: ceramide2017.png

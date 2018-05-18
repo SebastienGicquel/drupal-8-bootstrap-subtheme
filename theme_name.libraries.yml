@@ -1,0 +1,27 @@
+global-styling:
+  css:
+    theme:
+      'https://fonts.googleapis.com/css?family=Lato:400,700,900': {type: external}
+      'https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css': {type: external}
+      'css/style.css': {}
+  js:
+    'https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBwxT115shl-1sHdpoJTdq_FQ0w7w0TE3c': {type: external}
+    'https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js': {type: external}
+    js/theme.js: {}
+    
+    
+bootstrap-scripts:
+  js:
+    bootstrap/js/affix.js: {}
+    bootstrap/js/alert.js: {}
+    bootstrap/js/button.js: {}
+    bootstrap/js/carousel.js: {}
+    bootstrap/js/collapse.js: {}
+    bootstrap/js/dropdown.js: {}
+    bootstrap/js/modal.js: {}
+    bootstrap/js/tooltip.js: {}
+    bootstrap/js/popover.js: {}
+    bootstrap/js/scrollspy.js: {}
+    bootstrap/js/tab.js: {}
+    bootstrap/js/transition.js: {}
+    
